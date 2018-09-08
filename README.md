@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hocia
 
 **Generated from HotTowel Angular**
@@ -268,3 +269,6 @@ The `blocks.router` module contains a routing helper module that assists in addi
 ## License
 
 MIT
+=======
+# hocia
+>>>>>>> 4085c02da868be5d177f834b778646566c52f8ac
