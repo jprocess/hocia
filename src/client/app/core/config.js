@@ -13,8 +13,8 @@
   }
 
   var config = {
-    appErrorPrefix: '[hocia Error] ',
-    appTitle: 'hocia'
+    appErrorPrefix: '[TestGitHub Error] ',
+    appTitle: 'TestGitHub'
   };
 
   core.value('config', config);
